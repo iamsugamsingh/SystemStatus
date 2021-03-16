@@ -67,13 +67,13 @@ namespace SystemStatus
                                 if (dr["CompanyUnit"].ToString() == "AWS-1")
                                 {
                                     SendEmail mail = new SendEmail();
-                                    mail.sendMail("smtp.gmail.com", "it2@anugroup.net", "awsit2020", "it2@anugroup.net", "System Status", "Dear sir, <br/><br/>Work Entry system has disconnected from network whose <b>AWS-1 IP Address is: </b>" + host);
+                                    mail.sendMail("smtp.gmail.com", "it2@anugroup.net", "", "it2@anugroup.net", "System Status", "Dear sir, <br/><br/>Work Entry system has disconnected from network whose <b>AWS-1 IP Address is: </b>" + host);
                                 }
 
                                 if (dr["CompanyUnit"].ToString() == "AWS-2")
                                 {
                                     SendEmail mail = new SendEmail();
-                                    mail.sendMail("smtp.gmail.com", "it2@anugroup.net", "awsit2020", "it2@anugroup.net", "System Status", "Dear sir, <br/><br/>Work Entry system has disconnected from network whose <b>IP Address is: </b>" + host);
+                                    mail.sendMail("smtp.gmail.com", "it2@anugroup.net", "", "it2@anugroup.net", "System Status", "Dear sir, <br/><br/>Work Entry system has disconnected from network whose <b>IP Address is: </b>" + host);
                                 }
                             }
                             else

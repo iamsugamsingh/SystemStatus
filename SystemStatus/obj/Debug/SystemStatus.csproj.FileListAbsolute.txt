@@ -6,3 +6,10 @@ D:\Complete Softwares\SystemStatus\SystemStatus\obj\Debug\SystemStatus.csprojRes
 D:\Complete Softwares\SystemStatus\SystemStatus\bin\Aws.dll
 D:\Complete Softwares\SystemStatus\SystemStatus\bin\Spire.Barcode.dll
 D:\Complete Softwares\SystemStatus\SystemStatus\bin\Aws.pdb
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\bin\SystemStatus.dll
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\bin\SystemStatus.pdb
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\bin\Spire.Barcode.dll
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\bin\Aws.pdb
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\obj\Debug\SystemStatus.csprojResolveAssemblyReference.cache
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\obj\Debug\SystemStatus.dll
+C:\Users\sugam\Documents\GitHub\SystemStatus\SystemStatus\obj\Debug\SystemStatus.pdb
