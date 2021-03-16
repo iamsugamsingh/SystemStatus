@@ -1,0 +1,8 @@
+D:\Complete Softwares\SystemStatus\SystemStatus\bin\SystemStatus.dll
+D:\Complete Softwares\SystemStatus\SystemStatus\bin\SystemStatus.pdb
+D:\Complete Softwares\SystemStatus\SystemStatus\obj\Debug\SystemStatus.dll
+D:\Complete Softwares\SystemStatus\SystemStatus\obj\Debug\SystemStatus.pdb
+D:\Complete Softwares\SystemStatus\SystemStatus\obj\Debug\SystemStatus.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\SystemStatus\SystemStatus\bin\Aws.dll
+D:\Complete Softwares\SystemStatus\SystemStatus\bin\Spire.Barcode.dll
+D:\Complete Softwares\SystemStatus\SystemStatus\bin\Aws.pdb
